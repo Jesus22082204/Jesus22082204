@@ -14,7 +14,7 @@ Soy estudiante de 9° semestre de Ingeniería de Sistemas en la Universidad Popu
 * 🌿 **Riego Inteligente:** Sistema IoT para control agroindustrial mediante análisis de suelo.
 
 ### 📫 Cómo contactarme
-- 💼 [LinkedIn](www.linkedin.com/in/jesus-manuel-chinchilla-molina-003959164)
+- 💼 [LinkedIn](https://linkedin.com/in/jesus-manuel-chinchilla-molina-003959164)
 - 📧 Correo: jesusmanuel2208@gmail.com
 
 
